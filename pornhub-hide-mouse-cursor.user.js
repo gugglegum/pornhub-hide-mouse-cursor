@@ -12,6 +12,8 @@
 // @license MIT
 // @updateURL    https://raw.githubusercontent.com/gugglegum/pornhub-hide-mouse-cursor/master/pornhub-hide-mouse-cursor.user.js
 // @downloadURL  https://raw.githubusercontent.com/gugglegum/pornhub-hide-mouse-cursor/master/pornhub-hide-mouse-cursor.user.js
+// @homepageURL  https://github.com/gugglegum/pornhub-hide-mouse-cursor/issues
+// @supportURL   https://github.com/gugglegum/pornhub-hide-mouse-cursor/issues
 // ==/UserScript==
 
 (function() {
