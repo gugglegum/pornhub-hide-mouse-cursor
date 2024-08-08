@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PornHub Hide Mouse Cursor
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Hide mouse cursor (pointer) when watching videos on PornHub after 2 seconds of mouse inactivity
 // @author       Paul Melekhov
 // @match        *://*.pornhub.com/view_video.php?viewkey=*
