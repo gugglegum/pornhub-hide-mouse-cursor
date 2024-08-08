@@ -10,3 +10,5 @@ For some misunderstanding, PornHub does not automatically hide the mouse cursor 
 ## Usage
 
 The script will automatically hide the mouse cursor after 2 seconds of inactivity while watching a video on PornHub.
+
+This script on [Greasy Fork](https://greasyfork.org/ru/scripts/502919-pornhub-hide-mouse-cursor).
