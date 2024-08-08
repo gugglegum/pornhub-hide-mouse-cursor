@@ -5,6 +5,7 @@
 // @description  Hide mouse cursor (pointer) when watching videos on PornHub after 2 seconds of mouse inactivity
 // @author       Paul Melekhov
 // @match        *://*.pornhub.com/view_video.php?viewkey=*
+// @match        *://*.youporn.com/watch/*
 // @grant        none
 // ==/UserScript==
 
